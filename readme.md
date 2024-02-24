@@ -1,1 +1,2 @@
-Learning Basic of Pandas Library from Python.
+# Pandas Library
+Learning DataFrame and Web Scraping from Pandas Library in Python.
