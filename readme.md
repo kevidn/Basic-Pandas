@@ -1,1 +1,1 @@
-Pandas is good library.
+Learning Basic of Pandas Library from Python.
